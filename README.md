@@ -62,7 +62,7 @@ git clone https://github.com/Muhuthu/route-optimizer.git
 cd route-optimizer
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r requirements.txt.
 
 # Launch Jupyter
 jupyter notebook OptimalRoutePlanner.ipynb

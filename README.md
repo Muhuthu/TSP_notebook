@@ -22,13 +22,13 @@ This repository contains a **Python solution** for optimizing product distributi
 
 
 ### 📏 Distance Matrix
-- Accurate geodesic distance calculations
-- Customizable distance metrics
+- Accurate geodesic distance calculations.
+- Customizable distance metrics.
 
 ### ⚡ TSP Solvers
 - Brute-force implementation (for small datasets)
 - Heuristic approaches (for larger datasets)
-- Performance benchmarking
+- Performance benchmarking.
 
 ### 🎨 Visualization
 - Interactive Folium maps

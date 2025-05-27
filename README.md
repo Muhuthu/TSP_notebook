@@ -1,7 +1,7 @@
 # 🌍 Optimal Route Planning for Market Distribution
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Muhuthu/TSP_notebook/main/route_visualization.png" alt="Optimal Route Visualization" width="700"/>
+  <img src="https://raw.githubusercontent.com/Muhuthu/TSP_notebook/blob/main/Travelling-Salesman-Problem.jpg" alt="Optimal Route Visualization" width="700"/>
 </div>
 
 ## 📋 Project Description

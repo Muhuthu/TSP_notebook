@@ -1,7 +1,7 @@
 # 🌍 Optimal Route Planning for Market Distribution
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Muhuthu/TSP_notebook/blob/main/Travelling-Salesman-Problem.jpg" alt="Optimal Route Visualization" width="700"/>
+  <img src="https://raw.githubusercontent.com/Muhuthu/TSP_notebook/main/Travelling-Salesman-Problem.jpg" alt="Optimal Route Visualization" width="700" style="max-width: 100%; height: auto;"/>
 </div>
 
 ## 📋 Project Description
@@ -58,7 +58,7 @@ pie
 
 ### Installation
 # Clone repository
-git clone https://github.com/Muhuthu/route-optimizer.git
+git clone https://github.com/Muhuthu/TSP_notebook.git
 cd route-optimizer
 
 # Install dependencies

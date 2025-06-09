@@ -69,13 +69,12 @@ jupyter notebook OptimalRoutePlanner.ipynb
 
 ## 📂 Repository Structure
 
-route-optimizer/
-│── 📒 OptimalRoutePlanner.ipynb       # Main implementation
-│── 📝 requirements.txt                # Dependencies
-│── 📄 README.md                       # Documentation
-│── 📁 data/                           # Sample datasets
-│── 📁 images/                         # Visualizations
-
+TSP_notebook/
+├── 📒 OptimalRoutePlanner.ipynb       # Main implementation
+├── 📝 requirements.txt                # Dependencies
+├── 📄 README.md                       # Documentation
+├── 📁 data/                           # Sample datasets
+└── 📁 images/                         # Visualizations
 ## 📍 Example Locations
 
 <div align="center">

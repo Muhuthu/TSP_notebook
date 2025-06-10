@@ -39,7 +39,7 @@ This repository contains a **Python solution** for optimizing product distributi
 
 | Category        | Technologies                          |
 |-----------------|---------------------------------------|
-| **Core**        | Python 3.10+, Jupyter                 |
+| **Core**        | Python 3.10+,jupyter                |
 | **Data**        | NumPy, Pandas                         |
 | **Visualization**| Matplotlib, Seaborn, Folium           |
 | **Geospatial**  | Geopy, Nominatim                      |
